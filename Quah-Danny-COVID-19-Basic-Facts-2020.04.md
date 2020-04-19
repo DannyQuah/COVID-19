@@ -10,6 +10,7 @@
 - COVID-19: genetic network analysis provides ‘snapshot’ of pandemic origins https://www.cam.ac.uk/research/news/covid-19-genetic-network-analysis-provides-snapshot-of-pandemic-origins
 - Johns Hopkins, www.centerforhealthsecurity.org/cbn/2020/cbnreport-02272020.html
 - Blavatnik https://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker
+- https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
 
 
 
@@ -24,8 +25,12 @@
   - Chan, Jasper F-W., et al. 2020. "A [familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30154-9/fulltext)", The Lancet (24 Jan) https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30154-9/fulltext DOI: https://doi.org/10.1016/S0140-6736(20)30154-9 "Vigilant epidemiological control in the community and health-care facilities is important to prevent another SARS-like epidemic. [...] We have to be aware of the challenge and concerns brought by 2019-nCoV to our community. Every effort should be given to understand and control the disease, and the time to act is now."
   - Wang, Chen; Horby, Peter; Hayden, Frederick; and Gao, George. 2020. "[A novel coronavirus outbreak of global health concern](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30185-9/fulltext)", The Lancet (24 Jan) https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30185-9/fulltext DOI:https://doi.org/10.1016/S0140-6736(20)30185-9 "We need to be wary of the current outbreak turning into a sustained epidemic or even a pandemic."
 - The Economist // Running Summary https://www.economist.com/news/2020/03/11/the-economists-coverage-of-the-coronavirus
+- Channel News Asia https://www.channelnewsasia.com/news/topics/coronavirus-covid-19
+- Straits Times https://www.straitstimes.com/coronavirus
+- Guardian https://www.theguardian.com/world/coronavirus-outbreak
 - Harvard Business Review https://www.hbr.org/insight-center/coronavirus
 - The Atlantic https://www.theatlantic.com/category/what-you-need-know-coronavirus/
+- MSN https://www.msn.com/en-us/news/coronavirus
 - Wired https://www.wired.com/tag/coronavirus/
 
 
@@ -84,4 +89,3 @@ Time - 5
 
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30211-7/fulltext (via Bert Hofman)
 
-https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
