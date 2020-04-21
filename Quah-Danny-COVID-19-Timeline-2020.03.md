@@ -49,6 +49,8 @@ Danny Quah, began Mar 2020
 | 2020.04.07 | (Tue) National Circuit-Breaker began, in place until Mon 04 May 2020 |
 | 2020.04.08 | (Wed) Private social gatherings of any size, in homes or public social spaces, no longer allowed under new law ([ST][ST-2020.04.08-Social-Gatherings]) |
 | 2020.04.09 | (Thu) Record 287 new cases in Singapore, with over 200 of these linked to foreign worker dormitories ([MOH][MOH-2020.04.09-287-New-Cases]). Total in Singapore up to 1,910 as global cases exceed 1.5mn ([ST][ST-2020.04.09-287-New-Cases-Foreign-Worker-Dorms]) |
+| 2020.04.19 | (Sun) Five new COVID-19 clusters in Singapore; 596 new cases bring total to 6588 ([ST](https://www.straitstimes.com/singapore/596-new-covid-19-infections-confirmed-in-spore-majority-work-permit-holders-in-dorms): "Of the 596 new cases, 544 were work permit holders residing in dormitories. Only 25 are Singaporeans or permanent residents. There were no imported cases.") |
+| 2020.04.21 | (Tue) 1,111 new coronavirus cases in Singapore; total past 9,000 ([ST](https://www.straitstimes.com/singapore/1111-new-coronavirus-cases-take-singapore-tally-past-9000-mark)). Circuit Breaker period extended from 04 May to 01 Jun - PM Lee ([ST](https://www.straitstimes.com/singapore/in-full-pm-lees-address-to-singapore-on-extending-circuit-breaker-period-to-june-1)). [MOH](https://www.moh.gov.sg/news-highlights/details/strong-national-push-to-stem-spread-of-covid-19): Strong National Push to Stem COVID-19 Spread |
 
 
 
