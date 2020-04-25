@@ -6,7 +6,7 @@ April 2020
 
 
 
-(2020.04.18 1700h) Derek Thompson. 2020. The Economy is Ruined, The Atlantic (02 Apr)
+(2020.04.18 1700h) Derek Thompson. 2020. [The Economy is Ruined](https://www.theatlantic.com/ideas/archive/2020/04/economy-ruined-it-didnt-have-be-way/609334/), The Atlantic (02 Apr) https://www.theatlantic.com/ideas/archive/2020/04/economy-ruined-it-didnt-have-be-way/609334/
 
 - 10mn new unemployed only two weeks (3.3mn, then 6.6mn). In the US, you lose job, you lose unemployment insurance. 
 
@@ -284,4 +284,54 @@ https://www.nytimes.com/2020/04/20/world/asia/coronavirus-singapore.html
 Lee, Yen-Nee. 2020. [Southeast Asia could be the next coronavirus hot spot — these charts show why](https://www.cnbc.com/2020/04/20/southeast-asia-could-be-the-next-coronavirus-hot-spot-these-charts-show-why.html), CNBC Markets (20 Apr) https://www.cnbc.com/2020/04/20/southeast-asia-could-be-the-next-coronavirus-hot-spot-these-charts-show-why.html
 
 Low, Donald. 2020 "[How Singapore can draw the right lessons from the coronavirus crisis](https://www.scmp.com/week-asia/opinion/article/3080095/how-singapore-can-draw-right-lessons-coronavirus-crisis)", SCMP (16 Apr)
+
+(2020.04.25 1530h Reading // Quah-Danny-COVID-19-Readings-General-Notes-2020.04
+
+https://www.theguardian.com/world/2020/apr/17/far-right-coronavirus-protests-restrictions
+
+https://www.forbes.com/sites/davidnikel/2020/04/21/sweden-600000-coronavirus-infections-in-stockholm-by-may-1-model-estimates/ (via Marnie)
+
+CNA. 2020. Commentary: COVID-19 – Sweden thinks we are underestimating how many people have it (25 Apr) https://www.channelnewsasia.com/news/commentary/coronavirus-covid-19-sweden-cases-infection-fatality-test-number-12673260
+
+(Bloomberg) Sweden says its controversial coronavirus strategy proving effective, Straits Times (20 Apr 2020) https://www.straitstimes.com/world/europe/sweden-says-its-controversial-coronavirus-strategy-proving-effective
+
+"... given the huge economic damage caused by strict lockdowns, the Swedish approach has drawn considerable interest around the world.
+
+Part of that approach relies on having access to one of the world's best-functioning healthcare systems. At no stage did Sweden see a real shortage of medical equipment or hospital capacity, and tents set up as emergency care facilities around the country have mostly remained empty."
+
+"[...] some Swedish characteristics that may be helping the country deal with the current crisis. More than half of Swedish households are single-person, making social distancing easier to carry out. More people work from home than anywhere else in Europe, and everyone has access to fast Internet, which helps large chunks of the workforce stay productive away from the office.
+
+And while many other countries have introduced strict laws, including hefty fines if people are caught breaching newly minted social-distancing laws, Swedes appear to be following such guidelines without the need for legislation. Trips from Stockholm to Gotland - a popular vacation destination - dropped by 96 per cent over the Easter weekend, according to data from the country's largest mobile operator, Telia Company. And online service Citymapper's statistics indicate an almost 75 per cent drop in mobility in the capital.
+
+Sweden also recently pushed back against the notion that there's little to no social distancing going on.
+
+"We don't have a radically different view," Foreign Minister Ann Linde said in an interview with Radio Sweden. "The government has made a series of decisions that affect the whole society. It's a myth that life goes on as normal in Sweden.""
+
+Savage, Maddy. 2020. "Coronavirus: Has Sweden got its science right?", BBC (25 Apr) https://www.bbc.com/news/world-europe-52395866 
+
+Baldwin, Richard. 2020. "[The supply side matters: Guns versus butter, COVID-style](https://voxeu.org/article/supply-side-matters-guns-versus-butter-covid-style)", VOXEu (22 Mar) https://voxeu.org/article/supply-side-matters-guns-versus-butter-covid-style
+
+- Epidemiological curve vs recession curve
+
+- "Unable to provide the care that people need to survive, overwhelmed hospitals result in more people dying than would be the case with a slower rate of infection. Reducing the rate of infection is thus a life-and-death imperative."
+
+- "Given the lack of testing in Europe and the US, the only way to keep the sick and healthy apart is to keep everyone apart. And that produces a recession."
+
+- "Because COVID-19 is very infectious but not particularly lethal, the disease itself would have caused a slowdown, but probably not a very large one. The bulk of the coming recession is being caused by the public health measures taken to calm human calamity at the hospitals. 
+
+  Governments are preventing workers from working (deepening the supply-side recession) and consumers from consuming (deepening the demand-side recession). The recession, in other words, is intentional and unavoidable. "
+
+(2020.04.25 1900h) Reading // Timeline Quah-Danny-COVID-19-Timeline-2020.03.md
+
+AP. 2020. [China didn’t warn public of likely pandemic for 6 key days](https://apnews.com/68a9e1b91de4ffc166acd6012d82c2f9)  (15 Apr) https://apnews.com/68a9e1b91de4ffc166acd6012d82c2f9
+
+- Delay from 14 Jan to 20 Jan: Not the first or only mistake, nor the longest lag given how governments around the world delayed for weeks and months in addressing the virus
+
+- "China's attempt to walk the line between alerting the public and avoiding panic set the stage" for this pandemic
+
+- "China’s rigid controls on information, bureaucratic hurdles and a reluctance to send bad news up the chain of command muffled early warnings. [The punishment of eight doctors for “rumor-mongering,”](https://apnews.com/6f2e666485e9abae4bb112251eca77be) broadcast on national television on Jan. 2, sent a chill through the city’s hospitals."
+
+- "The delay may support accusations by President Donald Trump that the Chinese government’s secrecy held back the world’s response to the virus. However, even the public announcement on Jan. 20 left the U.S. nearly two months to prepare for the pandemic.
+
+  During those months, [Trump ignored the warnings of his own staff and dismissed the disease as nothing to worry about](https://apnews.com/6a8f85aad99607f313cca6ab1398e04d), while the government [failed to bolster medical supplies](https://apnews.com/090600c299a8cf07f5b44d92534856bc) and [deployed flawed testing kits](https://apnews.com/c335958b1f8f6a37b19b421bc7759722). Leaders across the world turned a blind eye to the outbreak, with British Prime Minister Boris Johnson calling for a strategy of “herd immunity” — [before falling ill himself.](https://apnews.com/193a0cfe074685144ade169084a68255) Brazilian President [Jair Bolsonaro sneered at what he called “a little cold.”](https://apnews.com/b21a296383694c6726d03e027134daf1)"
 
