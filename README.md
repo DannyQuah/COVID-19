@@ -25,6 +25,16 @@ The following would be in the added files and folders except that they're just U
 
 
 
+**Models**
+
+- (References in) The Economist. 2020. "[The hard choices covid policymakers face](https://www.economist.com/briefing/2020/04/04/the-hard-choices-covid-policymakers-face)" (04 Apr) https://www.economist.com/briefing/2020/04/04/the-hard-choices-covid-policymakers-face
+
+  
+
+
+
+
+
 **Readings / Writings / Projects**
 
 - [Lancet coronavirus archive](https://www.thelancet.com/coronavirus/archive)

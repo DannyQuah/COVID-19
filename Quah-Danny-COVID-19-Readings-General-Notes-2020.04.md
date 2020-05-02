@@ -335,3 +335,12 @@ AP. 2020. [China didn’t warn public of likely pandemic for 6 key days](https:/
 
   During those months, [Trump ignored the warnings of his own staff and dismissed the disease as nothing to worry about](https://apnews.com/6a8f85aad99607f313cca6ab1398e04d), while the government [failed to bolster medical supplies](https://apnews.com/090600c299a8cf07f5b44d92534856bc) and [deployed flawed testing kits](https://apnews.com/c335958b1f8f6a37b19b421bc7759722). Leaders across the world turned a blind eye to the outbreak, with British Prime Minister Boris Johnson calling for a strategy of “herd immunity” — [before falling ill himself.](https://apnews.com/193a0cfe074685144ade169084a68255) Brazilian President [Jair Bolsonaro sneered at what he called “a little cold.”](https://apnews.com/b21a296383694c6726d03e027134daf1)"
 
+(2020.05.01 1830h) Ridler, Faith. 2020. "[WHO Chief Berates the World For 'Not Listening Carefully'](https://www.msn.com/en-au/news/coronavirus/who-chief-berates-the-world-for-not-listening-carefully-to-the-agencys-warnings-about-coronavirus-on-january-30-when-there-were-only-82-covid-19-cases-outside-china/ar-BB13hN1h)," Daily Mail (28 Apr) https://www.msn.com/en-au/news/coronavirus/who-chief-berates-the-world-for-not-listening-carefully-to-the-agencys-warnings-about-coronavirus-on-january-30-when-there-were-only-82-covid-19-cases-outside-china/ar-BB13hN1h
+
+"Donald Trump launched an extraordinary attack on the agency, putting $500 million in funding on hold while an investigation is conducted into its handling of the pandemic. 
+
+Mr Trump singled out what he called the WHO's 'dangerous and costly decision' to argue against international travel bans to combat the pandemic.   
+
+The US State Department added the agency was too late in sounding the alarm over Covid-19 and is overly deferential to China.
+
+It questioned why it did not pursue a lead from Taiwan flagged up on December 31 about reports of atypical pneumonia in Wuhan."
