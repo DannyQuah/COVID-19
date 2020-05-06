@@ -65,7 +65,8 @@ Danny Quah, began Mar 2020 (initially, with greater emphasis on Singapore)
 | 2020.03.13 | (Fri) US has 2700 confirmed cases. Trump declares national emergency ([CBS][Watson-K-2020.04-Timeline-Trump-Coronavirus-CBS]). |
 | 2020.03.13 | (Fri) The UK government described its strategy of herd immunity, allowing enough who are going to get mildly ill to become immune. This herd immunity strategy would be reversed after the weekend. |
 | 2020.03.16 | (Mon) The UK reversed course and announced social distancing measures; by 2020.03.20 UK's Prime Minister ordered closed all pubs, restaurants, gyms, and cinemas. |
-| 2020.03.19 | (Thu) Wuhan reported no new domestic COVID-19 cases for the first time since the outbreak; at its peak in January and February 2020, several thousand new cases a day were being recorded in Wuhan alone, a city of 11mn.  On this day China overall had 34 imported cases from abroad. ([ST](https://www.straitstimes.com/asia/east-asia/coronavirus-china-reports-no-new-domestic-virus-cases-for-first-time-but-34-imported)) . // Safe Distancing Measures announced for Singapore FB outlets ([MOH, Enterprise Singapore](https://www.enterprisesg.gov.sg/covid-19/safe-distance)) |
+| 2020.03.19 | (Thu) Wuhan reported no new domestic COVID-19 cases for the first time since the outbreak; at its peak in January and February 2020, several thousand new cases a day were being recorded in Wuhan alone, a city of 11mn.  On this day China overall had 34 imported cases from abroad. [ST](https://www.straitstimes.com/asia/east-asia/coronavirus-china-reports-no-new-domestic-virus-cases-for-first-time-but-34-imported) |
+| 2020.03.19 | Safe Distancing Measures announced for Singapore FB outlets ([MOH, Enterprise Singapore](https://www.enterprisesg.gov.sg/covid-19/safe-distance)) |
 | 2020.03.19 | Number of COVID-19 deaths in Italy now exceed those in China ([CNN](https://edition.cnn.com/2020/03/19/europe/italy-death-toll-intl/index.html)). |
 | 2020.03.19 | Taiwan closes borders to nonresidents.                       |
 | 2020.03.21 | (Sat) First COVID-19 deaths in Singapore: 75yo Singaporean female, admitted and tested positive Sun 23 Feb at NCID; 64yo Indonesian male, admitted NCID Fri 13 Mar after arriving from Singapore (having been hospitalised in Indonesia for pneumonia) ([MOH](https://www.moh.gov.sg/news-highlights/details/passing-of-two-patients-with-covid-19-infection)) |
@@ -92,6 +93,8 @@ Danny Quah, began Mar 2020 (initially, with greater emphasis on Singapore)
 | 2020.04.25 | (Sat) Singapore - 618 new cases; total to 12693; foreign workers in dorms 597 of the 618 [ST][ST-2020.04.25-Singapore-new-cases] |
 | 2020.04.27 | (Mon) Singapore - 799 new cases; total to 14,423; foreign workers in dorms 764 of the 799 [ST][ST-2020.04.27-Singapore-new-cases]. |
 | 2020.04.28 | (Tue) Singapore - 528 new cases; total to 14,951; foreign workers in dorms 511 of the 528 [ST][ST-2020.04.28-Singapore-new-cases] |
+| 2020.05.03 | (Sun) Singapore - 657 new cases; total to 18,205; foreign workers in dorms 626 of the 657 [MOH][MOH-COVID-19] |
+| 2020.05.04 | (Mon) Singapore - 573 new cases; total to 18,778; foreign workers in dorms 560 of the 573 [MOH][MOH-COVID-19] |
 
 
 
@@ -118,30 +121,32 @@ Clusters // Grace Assembly of God - initial
 **References:**
 
 1. [Taiwan-CDC-2019.12.31-email-WHO-alert-MOHW-tweet][]
-2. [Caixin-2020.02-07-Interview-Li.Wenliang][]
-3. [SCMP-2020.03-Wuhan-police-apologise][]
-4. [Huang-C-2020.01-Clinical-Features-2019-Novel-Coronavirus-Wuhan-Lancet][]
-5. [Horton-R-2020.03-Alarm-Coronavirus-Britain-Fail-Guardian][]
-6. [WHO-2020.03-COVID-19-Pandemic][]
-7. [NYT-2020.03-US-Leads-World-Confirmed-Cases][]
-8. [WP-2020.03.27-Belarus-Rejects-Coronavirus-Risks-Suggests-Saunas-Vodka][]
-9. [Watson-K-2020.04-Timeline-Trump-Coronavirus-CBS][]
-10. [ST-2020.04.07-UK-Leadership-Crisis-Boris-Johnson-ICU][]
-11. [ST-2020.04.08-Social-Gatherings][]
-12. [MOH-2020.04.09-287-New-Cases][]
-13. [ST-2020.04.09-287-New-Cases-Foreign-Worker-Dorms][]
-14. [AP-2020.04.15-China-Delayed-Six-Days-Pandemic-Warning][]
-15. [JHU-Data-Hubei-Timeline][]
-16. [ST-2020.04.24-NUS-Resilience-Growth-1000-opportunities][]
-17. [ST-2020.04.25-Singapore-new-cases][]
-18. [ST-2020.04.27-Singapore-new-cases][]
-19. [ST-2020.04.28-Singapore-new-cases][]
+2. [MOH-COVID-19][]
+3. [Caixin-2020.02-07-Interview-Li.Wenliang][]
+4. [SCMP-2020.03-Wuhan-police-apologise][]
+5. [Huang-C-2020.01-Clinical-Features-2019-Novel-Coronavirus-Wuhan-Lancet][]
+6. [Horton-R-2020.03-Alarm-Coronavirus-Britain-Fail-Guardian][]
+7. [WHO-2020.03-COVID-19-Pandemic][]
+8. [NYT-2020.03-US-Leads-World-Confirmed-Cases][]
+9. [WP-2020.03.27-Belarus-Rejects-Coronavirus-Risks-Suggests-Saunas-Vodka][]
+10. [Watson-K-2020.04-Timeline-Trump-Coronavirus-CBS][]
+11. [ST-2020.04.07-UK-Leadership-Crisis-Boris-Johnson-ICU][]
+12. [ST-2020.04.08-Social-Gatherings][]
+13. [MOH-2020.04.09-287-New-Cases][]
+14. [ST-2020.04.09-287-New-Cases-Foreign-Worker-Dorms][]
+15. [AP-2020.04.15-China-Delayed-Six-Days-Pandemic-Warning][]
+16. [JHU-Data-Hubei-Timeline][]
+17. [ST-2020.04.24-NUS-Resilience-Growth-1000-opportunities][]
+18. [ST-2020.04.25-Singapore-new-cases][]
+19. [ST-2020.04.27-Singapore-new-cases][]
+20. [ST-2020.04.28-Singapore-new-cases][]
 
 
 
 
 
 [Taiwan-CDC-2019.12.31-email-WHO-alert-MOHW-tweet]: https://twitter.com/MOHW_Taiwan/status/1248915057188024320
+[MOH-COVID-19]: https://www.moh.gov.sg/covid-19
 [Caixin-2020.02-07-Interview-Li.Wenliang]: https://www.caixinglobal.com/2020-02-07/whistleblower-doctor-who-died-fighting-coronavirus-only-wanted-people-to-know-the-truth-101512578.html
 [SCMP-2020.03-Wuhan-police-apologise]: https://www.scmp.com/news/china/society/article/3075984/coronavirus-wuhan-local-police-blamed-mishandling-case-whistle
 [Huang-C-2020.01-Clinical-Features-2019-Novel-Coronavirus-Wuhan-Lancet]: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext
