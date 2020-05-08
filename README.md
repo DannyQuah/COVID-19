@@ -19,9 +19,20 @@ The following would be in the added files and folders except that they're just U
 **Facts and Figures**
 
 - Dashboard // Confirmed Cases, Deaths by Country/Region/Sovereignty - [Johns Hopkins](https://coronavirus.jhu.edu/map.html)
+- Worldometers Info https://www.worldometers.info/coronavirus/#countries
+- NY Times: [Coronavirus Map: Tracking the Global Outbreak](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
+- Oxford COVID-19 Government Response Tracker [Site](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker) | [GitHub](https://github.com/OxCGRT/covid-policy-tracker)
+  - Stringency index
 - Cumulative Cases - [Johns Hopkins](https://coronavirus.jhu.edu/data/cumulative-cases)
   - Since 50th confirmed case
   - In calendar time
+
+
+
+**Collections and archives**
+
+- [The Guardian coronavirus coverage](https://www.theguardian.com/world/coronavirus-outbreak)
+- [Lancet coronavirus archive](https://www.thelancet.com/coronavirus/archive)
 
 
 
@@ -33,12 +44,8 @@ The following would be in the added files and folders except that they're just U
 
 
 
-
-
 **Readings / Writings / Projects**
 
-- [Lancet coronavirus archive](https://www.thelancet.com/coronavirus/archive)
-- Oxford COVID-19 Government Response Tracker [Site](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker) | [GitHub](https://github.com/OxCGRT/covid-policy-tracker)
 - Quah, D. 2020. "[Which Wolf Did You Feed During the Great 2020 Novel Coronavirus Crisis?](https://medium.com/@1DannyQuah/which-wolf-did-you-feed-during-the-great-2020-novel-coronavirus-crisis-f7a69ac2a715)", *Medium* (15 Mar)
 - Quah, D. 2020. "[It was the Best of Times. It was the Worst of Times](https://medium.com/@1DannyQuah/it-was-the-best-of-times-it-was-the-worst-of-times-c76022eedc9f)", *Medium* (18 Mar)
 - Quah, D. 2020. "[Aggregate Demand, Aggregate Supply, and the 2020 Novel Coronavirus Pandemic](https://medium.com/@1DannyQuah/aggregate-demand-aggregate-supply-and-the-2020-novel-coronavirus-pandemic-71d8870a8a26)", *Medium* (20 Mar)
@@ -50,4 +57,5 @@ The following would be in the added files and folders except that they're just U
 - Quah, D. 2020. "[Post COVID-19, How Will We Be Better?](https://medium.com/@1DannyQuah/post-covid-19-how-will-we-be-better-3a646a88e625?sk=7a94693716f45c634d53a3a63b8e81d1)" *Medium* (23 Apr)
 - Quah, D. 2020. "[We Read The Labels on the Bottles](https://medium.com/@1DannyQuah/we-read-the-labels-on-the-bottles-we-found-in-the-janitors-closet-4f853104e0f)", *Medium* (25 Apr)
 - S. Korea // June Park project - Governing a pandemic in the age of artificial intelligence: Beyond massive tracking and data privacy in South Korea to counter COVID-19 http://blogs.bu.edu/junepark/covid-19/
-
+- Tay, Simon, and Chen, Kevin. 2020. "[Singapore and COVID-19: Strengths, Shifts, and Limits of National Response](https://www.cfr.org/blog/singapore-and-covid-19-strengths-shifts-and-limits-national-response)", CFR (21 Apr)
+- 
