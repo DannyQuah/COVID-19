@@ -151,6 +151,7 @@ SHN &mdash; Stay-Home Notification
 **Notes:**
 
 1. <a name="2020.01.23-PHEIC-More">At</a> the [23 Jan 2020 meeting of WHO's International Health Regulations Emergency Committee][WHO-2020.01.23-Emergency-Committee-divided], China presented data on death rates, the rise in confirmed cases, and the provinces affected by the novel coronavirus. This Committee advises WHO's Director-General on the determination of a Public Health Emergency of International Concern (PHEIC); the meeting included representation from the US, China, Japan, Thailand, France, the Netherlands, Canada, Australia, Thailand, and Singapore, among elsewhere. The Emergency Committee at this 23 Jan meeting noted regarding the novel coronavirus both human-to-human transmission and a preliminary $R_0$ estimate of 1.4-2.5. However, Committee members disagreed on whether PHEIC should be called, due to the latter's restrictive, binary nature. The Committee suggested WHO might consider a more nuanced system that could reflect varying levels of alertness and severity, rather than just PHEIC / no PHEIC. The outcome, however, was that, based on the evidence presented, the divided EC gave no clear direction to the Direction-General on PHEIC declaration. [Return](#2020.01.23-PHEIC)
+2. From the perspective of international policy, the 12 Mar 2020 declaration of pandemic by WHO  carried no particular significance. Instead, it is the earlier 30 Jan 2020 PHEIC determination that mattered for international agreements across different health ministries and agencies ([WHO-2020.01.30-Emergency-Committee-PHEIC][], [Time-2020.01.30-PHEIC-WHO][], [WHO-IHR-Procedures-PHEIC][], [WHO-IHR-Committees][]).
 
 
 
@@ -160,33 +161,37 @@ SHN &mdash; Stay-Home Notification
 2. [MOH-COVID-19][]
 3. [WHO-2020.01.14-no-evidence-human-transmission-2019-nCoV][]
 4. [WHO-2020.01.23-Emergency-Committee-divided][]
-5. [Caixin-2020.02-07-Interview-Li.Wenliang][]
-6. [SCMP-2020.03-Wuhan-police-apologise][]
-7. [WHO-Emergencies-C19-Events][]
-8. [Huang-C-2020.01-Clinical-Features-2019-Novel-Coronavirus-Wuhan-Lancet][]
-9. [Horton-R-2020.03-Alarm-Coronavirus-Britain-Fail-Guardian][]
-10. [WHO-2020.03-COVID-19-Pandemic][]
-11. [NYT-2020.03.24-Hubei-lockdown][]
-12. [NYT-2020.03-US-Leads-World-Confirmed-Cases][]
-13. [WP-2020.03.27-Belarus-Rejects-Coronavirus-Risks-Suggests-Saunas-Vodka][]
-14. [G-2020.03.28-Sweden][]
-15. [DW-Europe-lockdown][]
-16. [Watson-K-2020.04-Timeline-Trump-Coronavirus-CBS][]
-17. [NYT-2020.04.05-Italy-lockdown][]
-18. [WSJ-2020.04.05-WHO-Coronavirus-Disinformation][]
-19. [ST-2020.04.07-UK-Leadership-Crisis-Boris-Johnson-ICU][]
-20. [ST-2020.04.08-Social-Gatherings][]
-21. [MOH-2020.04.09-287-New-Cases][]
-22. [ST-2020.04.09-287-New-Cases-Foreign-Worker-Dorms][]
-23. [AP-2020.04.15-China-Delayed-Six-Days-Pandemic-Warning][]
-24. [JHU-Data-Hubei-Timeline][]
-25. [ST-2020.04.24-NUS-Resilience-Growth-1000-opportunities][]
-26. [ST-2020.04.25-Singapore-new-cases][]
-27. [ST-2020.04.27-Singapore-new-cases][]
-28. [ST-2020.04.28-Singapore-new-cases][]
-29. [ST-2020.05.03-WHO-Declaration-Enough-Time][]
-30. [ABC-News-2020.05.03-Pompeo][] 
-31. [Guardian-2020.05.03-Pompeo][]
+5. [Time-2020.01.30-PHEIC-WHO][]
+6. [WHO-IHR-Procedures-PHEIC][]
+7. [WHO-IHR-Committees][]
+8. [WHO-2020.01.30-Emergency-Committee-PHEIC][]
+9. [Caixin-2020.02-07-Interview-Li.Wenliang][]
+10. [SCMP-2020.03-Wuhan-police-apologise][]
+11. [WHO-Emergencies-C19-Events][]
+12. [Huang-C-2020.01-Clinical-Features-2019-Novel-Coronavirus-Wuhan-Lancet][]
+13. [Horton-R-2020.03-Alarm-Coronavirus-Britain-Fail-Guardian][]
+14. [WHO-2020.03-COVID-19-Pandemic][]
+15. [NYT-2020.03.24-Hubei-lockdown][]
+16. [NYT-2020.03-US-Leads-World-Confirmed-Cases][]
+17. [WP-2020.03.27-Belarus-Rejects-Coronavirus-Risks-Suggests-Saunas-Vodka][]
+18. [G-2020.03.28-Sweden][]
+19. [DW-Europe-lockdown][]
+20. [Watson-K-2020.04-Timeline-Trump-Coronavirus-CBS][]
+21. [NYT-2020.04.05-Italy-lockdown][]
+22. [WSJ-2020.04.05-WHO-Coronavirus-Disinformation][]
+23. [ST-2020.04.07-UK-Leadership-Crisis-Boris-Johnson-ICU][]
+24. [ST-2020.04.08-Social-Gatherings][]
+25. [MOH-2020.04.09-287-New-Cases][]
+26. [ST-2020.04.09-287-New-Cases-Foreign-Worker-Dorms][]
+27. [AP-2020.04.15-China-Delayed-Six-Days-Pandemic-Warning][]
+28. [JHU-Data-Hubei-Timeline][]
+29. [ST-2020.04.24-NUS-Resilience-Growth-1000-opportunities][]
+30. [ST-2020.04.25-Singapore-new-cases][]
+31. [ST-2020.04.27-Singapore-new-cases][]
+32. [ST-2020.04.28-Singapore-new-cases][]
+33. [ST-2020.05.03-WHO-Declaration-Enough-Time][]
+34. [ABC-News-2020.05.03-Pompeo][] 
+35. [Guardian-2020.05.03-Pompeo][]
 
 
 
@@ -194,6 +199,10 @@ SHN &mdash; Stay-Home Notification
 [MOH-COVID-19]: https://www.moh.gov.sg/covid-19
 [WHO-2020.01.14-no-evidence-human-transmission-2019-nCoV]: https://twitter.com/who/status/1217043229427761152
 [WHO-2020.01.23-Emergency-Committee-divided]: https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)
+[Time-2020.01.30-PHEIC-WHO]: https://time.com/5774747/coronavirus-who-public-health-emergency/
+[WHO-IHR-Procedures-PHEIC]: https://www.who.int/ihr/procedures/pheic/en/
+[WHO-IHR-Committees]: https://www.who.int/ihr/procedures/ihr_committees/en/
+[WHO-2020.01.30-Emergency-Committee-PHEIC]:https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)
 [Caixin-2020.02-07-Interview-Li.Wenliang]: https://www.caixinglobal.com/2020-02-07/whistleblower-doctor-who-died-fighting-coronavirus-only-wanted-people-to-know-the-truth-101512578.html
 [SCMP-2020.03-Wuhan-police-apologise]: https://www.scmp.com/news/china/society/article/3075984/coronavirus-wuhan-local-police-blamed-mishandling-case-whistle
 [WHO-Emergencies-C19-Events]:https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen
