@@ -8,7 +8,7 @@
 
 by 
 
-Danny Quah, began Mar 2020 (initially, with greater emphasis on Singapore)
+Danny Quah, began Mar 2020 (initially, with greater emphasis on Singapore). When I add recent entries that are tentative, they don't yet carry link confirmation; otherwise, I can't keep up. Those evidential links get added when an event has staying power.
 
 | Date                                      | Event                                                        |
 | ----------------------------------------- | ------------------------------------------------------------ |
@@ -129,6 +129,7 @@ Danny Quah, began Mar 2020 (initially, with greater emphasis on Singapore)
 | 2020.05.03                                | (Sun) US Secretary of State, Mike Pompeo, claimed "enormous evidence" that the coronavirus outbreak came from a Wuhan laboratory, and that China's coronavirus response was a 'classic communist disinformation effort' ([ABC-News-2020.05.03-Pompeo][], [Guardian-2020.05.03-Pompeo][]). |
 | 2020.05.04                                | (Mon) Singapore - newly confirmed 573 cases; total to 18,778; foreign workers in dorms 560 of the 573 [MOH][MOH-COVID-19]. |
 | 2020.05.06                                | (Wed) Singapore - newly confirmed 788 cases; total to 20,198; foreign workers in dorms 759 (96%) of the 788 [MOH][MOH-COVID-19]. |
+| 2020.05.11                                | (Mon) Wuhan reports first cluster of coronavirus infections after lockdown lifted in April. |
 
 
 
