@@ -26,6 +26,7 @@ The following would be in the added files and folders except that they're just U
   - Since 50th confirmed case
   - In calendar time
 - The Atlantic // [The COVID Tracking Project](https://covidtracking.com/) &mdash; US statistics; [R package on GitHub](https://github.com/aedobbyn/covid19us)
+- Lakshmanan, Lak. 2020. "[Analyzing COVID-19 with BigQuery](https://medium.com/google-cloud/analyzing-covid-19-with-bigquery-13701a3a785)", Google Cloud Computing (31 Mar) https://medium.com/google-cloud/analyzing-covid-19-with-bigquery-13701a3a785
 
 
 
@@ -59,6 +60,7 @@ The following would be in the added files and folders except that they're just U
 - Quah, D. 2020. "[We Read The Labels on the Bottles](https://medium.com/@1DannyQuah/we-read-the-labels-on-the-bottles-we-found-in-the-janitors-closet-4f853104e0f)", *Medium* (25 Apr)
 - Quah, D. 2020. "[WHO Did What When: The COVID-19 Angle](https://medium.com/@1DannyQuah/who-did-what-when-the-covid-19-angle-ebaa298ab67e)", *Medium* (07 May)
 - Quah, D. 2020. "[When was the world given official notice about the novel coronavirus's human-to-human transmission and high infection rates?](https://medium.com/@1DannyQuah/quah-d-2020-05-world-official-notice-covid-19-human-transmission-high-infection-ec9ffbb4ce77)", *Medium* (11 May)
+- Quah, D. 2020. "Keeping People From Dying "
 - S. Korea // June Park project - Governing a pandemic in the age of artificial intelligence: Beyond massive tracking and data privacy in South Korea to counter COVID-19 http://blogs.bu.edu/junepark/covid-19/
 - Tay, Simon, and Chen, Kevin. 2020. "[Singapore and COVID-19: Strengths, Shifts, and Limits of National Response](https://www.cfr.org/blog/singapore-and-covid-19-strengths-shifts-and-limits-national-response)", CFR (21 Apr)
--
+
