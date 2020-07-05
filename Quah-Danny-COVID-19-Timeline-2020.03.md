@@ -1,7 +1,3 @@
-
-
-
-
 # Quah-Danny-COVID-19-Timeline-2020.03
 
 **COVID-19 Timeline** 
@@ -58,7 +54,7 @@ I began this, initially, with greater emphasis on Singapore.  When I add recent 
 | 2020.02.05                                | ([Wed](https://www.moe.gov.sg/news/press-releases/additional-precautionary-measures-against-the-2019-novel-coronavirus-infection)) Singapore: Assemblies, large group and communal activities suspended at primary and secondary schools, and junior colleges. |
 | 2020.02.07                                | ([Fri](https://www.moh.gov.sg/news-highlights/details/risk-assessment-raised-to-dorscon-orange)) Singapore DORSCON Orange, indicating estimated moderate to high public health impact. Inessential large-scale events canceled or postponed. Personal contact (shaking hands, face-touching) discouraged. Self-isolation suggested for those with respiratory symptoms, if not yet tested negative. Events of more than 250 people deferred or canceled. |
 | 2020.02.07                                | Singapore second COVID-19 cluster, Grand Hyatt Hotel. Conference 20-22 Jan 2020 ([ST 07 Feb 2020](https://www.straitstimes.com/singapore/coronavirus-gas-analysis-conference-at-grand-hyatt-singapore-hotel-linked-to-infections)). |
-| 2020.02.07                                | Li Wenliang, who had reported the existence of coronavirus and was initially silenced by the local authorities, died from COVID-19. |
+| 2020.02.07                                | LI Wenliang, who had reported the existence of coronavirus and was initially silenced by the local authorities, died from COVID-19. |
 | 2020.02.08                                | (Sat) Some empty supermarket shelves both then and the evening before. (Document evidence?) At [2000h](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-on-the-Novel-Coronavirus-nCoV-Situation-in-Singapore-on-8-February-2020) Singapore's PM Lee Hsien Loong addressed the nation. |
 | 2020.02.09                                | (Sun) Calm restored in supermarket shopping. (Document evidence?) |
 | 2020.02.09                                | (Sun) Trump said, "The flu, in our country, kills from 25,000 people to 69,000 people a year," suggesting the relative insignificance of the 15 COVID-19 cases thus far reported in the US ([CBS][Watson-K-2020.04-Timeline-Trump-Coronavirus-CBS]) |
@@ -93,6 +89,7 @@ I began this, initially, with greater emphasis on Singapore.  When I add recent 
 | 2020.03.14                                | Spain declared state of emergency, restricting movement for over 46mn people, shutting non-essential businesses, and closing external borders with European neighbours. Disallowed outdoor movement (including exercise), except for pharmacy and grocery shopping. Police and military enforced the lockdown. [DW-Europe-lockdown][] |
 | 2020.03.16                                | (Mon) The UK reversed course and announced social distancing measures; by 2020.03.20 UK's Prime Minister ordered closed all pubs, restaurants, gyms, and cinemas. |
 | 2020.03.17                                | (Tue) France strict nationwide lockdown; residents allowed out only for grocery shopping [DW-Europe-lockdown][] |
+| 2020.03.17                                | (Tue) China expelled 13 US reporters for the New York Times, the Washington Post, and the Wall Street Journal, barring them as well from working in HK and Macau. [Guardian-2020.03.17-Beijing-Expels-US-Media-Staff][] |
 | 2020.03.19                                | (Thu) Wuhan reported no new domestic COVID-19 cases for the first time since the outbreak; at its peak in January and February 2020, several thousand new cases a day were being recorded in Wuhan alone, a city of 11mn.  On this day China overall had 34 imported cases from abroad. [ST](https://www.straitstimes.com/asia/east-asia/coronavirus-china-reports-no-new-domestic-virus-cases-for-first-time-but-34-imported) |
 | 2020.03.19                                | Safe Distancing Measures announced for Singapore FB outlets ([MOH, Enterprise Singapore](https://www.enterprisesg.gov.sg/covid-19/safe-distance)) |
 | 2020.03.19                                | Number of COVID-19 deaths in Italy first exceeded those in China ([CNN](https://edition.cnn.com/2020/03/19/europe/italy-death-toll-intl/index.html)). |
@@ -127,6 +124,7 @@ I began this, initially, with greater emphasis on Singapore.  When I add recent 
 | 2020.04.21                                | (Tue) Singapore newly confirmed 1,111 COVID-19 cases; total is now past 9,000; 1050 foreign workers living in dormitories ([ST](https://www.straitstimes.com/singapore/1111-new-coronavirus-cases-take-singapore-tally-past-9000-mark)). Circuit Breaker period extended from 04 May another four weeks to 01 Jun - PM Lee ([ST](https://www.straitstimes.com/singapore/in-full-pm-lees-address-to-singapore-on-extending-circuit-breaker-period-to-june-1)).  Multi-Ministry Task Force Press Conference ([ST: youtube](https://www.youtube.com/watch?v=BdldBQN4ND4)) [MOH](https://www.moh.gov.sg/news-highlights/details/strong-national-push-to-stem-spread-of-covid-19): Strong National Push to Stem COVID-19 Spread |
 | 2020.04.22                                | (Wed) 1,016 newly confirmed coronavirus cases in Singapore; total past 10,000 ([ST](https://www.straitstimes.com/singapore/1016-new-coronavirus-cases-take-singapore-tally-past-10000-mark)). |
 | 2020.04.24                                | (Fri) NUS offered 1,000 opportunities to graduates [ST][ST-2020.04.24-NUS-Resilience-Growth-1000-opportunities] |
+| 2020.04.24                                | (Fri) Trump appeared to propose irradiating COVID-19 patients' with UV light [BBC-2020.04.24-Trump-Disinfectant][] |
 | 2020.04.25                                | (Sat) Singapore - newly confirmed 618 cases; total to 12693; foreign workers in dorms 597 of the 618 [ST][ST-2020.04.25-Singapore-new-cases] |
 | 2020.04.27                                | (Mon) Singapore - newly confirmed 799 cases; total to 14,423; foreign workers in dorms 764 of the 799 [ST][ST-2020.04.27-Singapore-new-cases]. |
 | 2020.04.28                                | (Tue) Singapore - newly confirmed 528 cases; total to 14,951; foreign workers in dorms 511 of the 528 [ST][ST-2020.04.28-Singapore-new-cases] |
@@ -137,6 +135,7 @@ I began this, initially, with greater emphasis on Singapore.  When I add recent 
 | 2020.05.06                                | (Wed) Singapore - newly confirmed 788 cases; total to 20,198; foreign workers in dorms 759 (96%) of the 788 [MOH][MOH-COVID-19]. |
 | 2020.05.11                                | (Mon) Wuhan reported first cluster of coronavirus infections after lockdown lifted in April. |
 | 2020.05.18                                | (Mon) Trump sent rebuke letter to WHO, threatening that the US will suspend funding and leave WHO [NPR-2020.05.20-Fact-Checking-Trump-WHO][] |
+| 2020.05.29                                | (Fri) Trump announced halting funding of WHO and pulling out of the international agency, charging WHO with protecting China as COVID-19 pandemic began [Statnews-2020.05.29-US-terminates-WHO-relationship][] |
 
 
 
@@ -180,29 +179,32 @@ SHN &mdash; Stay-Home Notification
 13. [Huang-C-2020.01-Clinical-Features-2019-Novel-Coronavirus-Wuhan-Lancet][]
 14. [Horton-R-2020.03-Alarm-Coronavirus-Britain-Fail-Guardian][]
 15. [WHO-2020.03-COVID-19-Pandemic][]
-16. [NYT-2020.03.24-Hubei-lockdown][]
-17. [NYT-2020.03-US-Leads-World-Confirmed-Cases][]
-18. [WP-2020.03.27-Belarus-Rejects-Coronavirus-Risks-Suggests-Saunas-Vodka][]
-19. [G-2020.03.28-Sweden][]
-20. [DW-Europe-lockdown][]
-21. [Watson-K-2020.04-Timeline-Trump-Coronavirus-CBS][]
-22. [NYT-2020.04.05-Italy-lockdown][]
-23. [WSJ-2020.04.05-WHO-Coronavirus-Disinformation][]
-24. [ST-2020.04.07-UK-Leadership-Crisis-Boris-Johnson-ICU][]
-25. [ST-2020.04.08-Social-Gatherings][]
-26. [MOH-2020.04.09-287-New-Cases][]
-27. [ST-2020.04.09-287-New-Cases-Foreign-Worker-Dorms][]
-28. [Taiwan-CDC-2020.04.11-Facts-Taiwan-Email-COVID-19][]
-29. [AP-2020.04.15-China-Delayed-Six-Days-Pandemic-Warning][]
-30. [JHU-Data-Hubei-Timeline][]
-31. [ST-2020.04.24-NUS-Resilience-Growth-1000-opportunities][]
-32. [ST-2020.04.25-Singapore-new-cases][]
-33. [ST-2020.04.27-Singapore-new-cases][]
-34. [ST-2020.04.28-Singapore-new-cases][]
-35. [ST-2020.05.03-WHO-Declaration-Enough-Time][]
-36. [ABC-News-2020.05.03-Pompeo][] 
-37. [Guardian-2020.05.03-Pompeo][]
-38. [NPR-2020.05.20-Fact-Checking-Trump-WHO][]
+16. [Guardian-2020.03.17-Beijing-Expels-US-Media-Staff][]
+17. [NYT-2020.03.24-Hubei-lockdown][]
+18. [NYT-2020.03-US-Leads-World-Confirmed-Cases][]
+19. [WP-2020.03.27-Belarus-Rejects-Coronavirus-Risks-Suggests-Saunas-Vodka][]
+20. [G-2020.03.28-Sweden][]
+21. [DW-Europe-lockdown][]
+22. [Watson-K-2020.04-Timeline-Trump-Coronavirus-CBS][]
+23. [NYT-2020.04.05-Italy-lockdown][]
+24. [WSJ-2020.04.05-WHO-Coronavirus-Disinformation][]
+25. [ST-2020.04.07-UK-Leadership-Crisis-Boris-Johnson-ICU][]
+26. [ST-2020.04.08-Social-Gatherings][]
+27. [MOH-2020.04.09-287-New-Cases][]
+28. [ST-2020.04.09-287-New-Cases-Foreign-Worker-Dorms][]
+29. [Taiwan-CDC-2020.04.11-Facts-Taiwan-Email-COVID-19][]
+30. [AP-2020.04.15-China-Delayed-Six-Days-Pandemic-Warning][]
+31. [JHU-Data-Hubei-Timeline][]
+32. [ST-2020.04.24-NUS-Resilience-Growth-1000-opportunities][]
+33. [BBC-2020.04.24-Trump-Disinfectant][]
+34. [ST-2020.04.25-Singapore-new-cases][]
+35. [ST-2020.04.27-Singapore-new-cases][]
+36. [ST-2020.04.28-Singapore-new-cases][]
+37. [ST-2020.05.03-WHO-Declaration-Enough-Time][]
+38. [ABC-News-2020.05.03-Pompeo][] 
+39. [Guardian-2020.05.03-Pompeo][]
+40. [NPR-2020.05.20-Fact-Checking-Trump-WHO][]
+41.  [Statnews-2020.05.29-US-terminates-WHO-relationship][]
 
 
 
@@ -221,6 +223,7 @@ SHN &mdash; Stay-Home Notification
 [Huang-C-2020.01-Clinical-Features-2019-Novel-Coronavirus-Wuhan-Lancet]: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext
 [Horton-R-2020.03-Alarm-Coronavirus-Britain-Fail-Guardian]: https://www.theguardian.com/commentisfree/2020/mar/18/coronavirus-uk-expert-advice-wrong
 [WHO-2020.03-COVID-19-Pandemic]: http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/news/news/2020/3/who-announces-covid-19-outbreak-a-pandemic
+[Guardian-2020.03.17-Beijing-Expels-US-Media-Staff]: https://www.theguardian.com/world/2020/mar/17/china-to-expel-more-us-journalists-in-latest-tit-for-tat-move
 [NYT-2020.03.24-Hubei-lockdown]: https://www.nytimes.com/2020/03/24/world/asia/china-coronavirus-lockdown-hubei.html
 [NYT-2020.03-US-Leads-World-Confirmed-Cases]: https://www.nytimes.com/2020/03/26/world/coronavirus-news.html
 [WP-2020.03.27-Belarus-Rejects-Coronavirus-Risks-Suggests-Saunas-Vodka]: https://www.msn.com/en-us/news/world/no-lockdown-here-belaruss-strongman-rejects-coronavirus-risks-he-suggests-saunas-and-vodka/ar-BB11NPRl
@@ -237,6 +240,7 @@ SHN &mdash; Stay-Home Notification
 [AP-2020.04.15-China-Delayed-Six-Days-Pandemic-Warning]: https://apnews.com/68a9e1b91de4ffc166acd6012d82c2f9
 [JHU-Data-Hubei-Timeline]: https://coronavirus.jhu.edu/data/hubei-timeline
 [ST-2020.04.24-NUS-Resilience-Growth-1000-opportunities]: https://www.straitstimes.com/singapore/education/nus-offers-1000-traineeships-jobs-to-grads
+[BBC-2020.04.24-Trump-Disinfectant]: https://www.bbc.com/news/world-us-canada-52407177
 [ST-2020.04.25-Singapore-new-cases]: https://www.straitstimes.com/singapore/618-new-covid-19-cases-taking-total-to-12693
 [ST-2020.04.27-Singapore-new-cases]: https://www.straitstimes.com/singapore/799-new-covid-19-patients-in-singapore-taking-the-total-to-14-423
 [ST-2020.04.28-Singapore-new-cases]: https://www.straitstimes.com/singapore/health/528-new-covid-19-cases-take-singapore-tally-to-14951
@@ -244,6 +248,8 @@ SHN &mdash; Stay-Home Notification
 [ABC-News-2020.05.03-Pompeo]: https://abcnews.go.com/ThisWeek/video/secretary-state-mike-pompeo-70478299
 [Guardian-2020.05.03-Pompeo]:https://www.theguardian.com/world/2020/may/03/mike-pompeo-donald-trump-coronavirus-chinese-laboratory
 [NPR-2020.05.20-Fact-Checking-Trump-WHO]: https://www.npr.org/sections/goatsandsoda/2020/05/20/858911395/fact-checking-and-assessing-trumps-letter-of-rebuke-to-who
+
+[Statnews-2020.05.29-US-terminates-WHO-relationship]: https://www.statnews.com/2020/05/29/trump-us-terminate-who-relationship/
 
 
 
