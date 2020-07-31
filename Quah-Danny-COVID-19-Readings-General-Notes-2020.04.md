@@ -1,3 +1,18 @@
+---
+Title: Quah-Danny-COVID-19-Readings-General-Notes-2020.04
+Last-edited: Tue 2020.07.28.1654 -- Danny Quah (me@DannyQuah.com)
+Type: Event | Person | Log | Notes | Misc
+Tags: China, US, LKYSPP, NUS, Hardware, Software, Talk, Write, Finance
+Created: Tue 2020.07.28.1654 -- Danny Quah (me@DannyQuah.com)
+output: pdf_document
+fontsize: 11pt
+fontfamily: concrete | gentium | libertine
+fontenc: T1
+geometry: margin=1in
+papersize: A4
+pagestyle: plain
+---
+
 # Quah-Danny-COVID-19-Readings-General-Notes-2020.04
 
 General readings, not particularly organised. See different topic arrangements in other `Quah-Danny-COVID-19-*` items
