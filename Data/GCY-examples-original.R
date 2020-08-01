@@ -1,6 +1,6 @@
 #! R
-# @(#) GCY-examples.R
-# Last-edited: Fri 2020.07.31.2024  -- Danny Quah (me@DannyQuah.com)
+# @(#) GCY-examples-original.R
+# Last-edited: Sat 2020.08.01.1337  -- Danny Quah (me@DannyQuah.com)
 # ----------------------------------------------------------------
 # Revision History:
 #  % Fri 2020.07.31.1506  -- Danny Quah (me@DannyQuah.com)

@@ -10,13 +10,13 @@ library(tidyverse)
 library(lubridate)
 
 remotes::install_github("GuangchuangYu/nCov2019")
-require(nCov2019)
+library(nCov2019)
 y <- load_nCov2019(lang = 'en')
 d = y['global']
 
 
-require(dplyr)
-require(shadowtext)
+library(dplyr)
+library(shadowtext)
 
 dd <- filter(d, time == time(y) & country != "China") %>%
     arrange(desc(cum_confirm))
@@ -30,13 +30,17 @@ dd$angle = 1:40 * 360/40
 # Original:
 # label_cut = 700
 # I changed this as 700 is no longer a good divider and ends up giving a null
-# vector on the geom_text call below. I coded a rough half-way point at 
-# the median but  another user might want to do this threshold differently
+# vector on the geom_text call below. I coded a rough half-way point at
+# the median but other users might want to do this threshold differently
 label_cut = median(dd$cum_confirm)
 
 i = dd$angle >= 180 & dd$cum_confirm > label_cut
 dd$angle[i] = dd$angle[i] + 180
-j = dd$angle < 180 & dd$cum_confirm < 1000
+# 2020.07.31.2021 -- Danny Quah (me@DannyQuah.com)
+# Original: j = dd$angle < 180 & dd$cum_confirm < 1000
+# I changed this as label_cut = 700 (above) no longer worked,
+# I figured this should be carried along too
+j = dd$angle < 180 & dd$cum_confirm < label_cut
 dd$angle[j] = dd$angle[j] - 90
 dd$vjust = 1
 dd$vjust[i] = 0
@@ -44,7 +48,7 @@ dd$vjust[j] = 0.5
 dd$y = dd$cum_confirm *.8
 dd$y[j] = dd$y[j] * .7
 
-require(ggplot2)
+library(ggplot2)
 
 p <- ggplot(dd, aes(country, cum_confirm, fill=cum_confirm)) +
     geom_col(width=1, color='grey90') +
@@ -67,10 +71,10 @@ p <- ggplot(dd, aes(country, cum_confirm, fill=cum_confirm)) +
 
 p1 = ggplotify::as.ggplot(p, scale=1.2)
 
-require(dplyr)
-require(ggplot2)
-require(shadowtext)
-require(nCov2019)
+library(dplyr)
+library(ggplot2)
+library(shadowtext)
+library(nCov2019)
 
 d <- load_nCov2019()
 dd <- d['global'] %>%
@@ -110,7 +114,7 @@ p2 <- ggplot(dd, aes(days_since_100, confirm, color = country)) +
 
 
 remotes::install_github("GuangchuangYu/chinamap")
-require(chinamap)
+library(chinamap)
 
 x <- get_nCov2019(lang = 'en')
 cn = get_map_china()
@@ -120,7 +124,7 @@ p3 <- plot(x, region = 'china', chinamap = cn,
      palette = 'Blues', font.size = 2) +
      theme_minimal(base_size=14)
 
-require(cowplot)
+library(cowplot)
 pp <- plot_grid(p2, p3, ncol=1, labels=c("B", "C"),
     rel_heights=c(.7, 1))
 g <- plot_grid(p1, pp, ncol=2, rel_widths=c(1.2, 1), labels=c("A", ""))
