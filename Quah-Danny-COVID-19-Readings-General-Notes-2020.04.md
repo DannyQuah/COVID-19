@@ -1,9 +1,11 @@
 ---
+fileName: Quah-Danny-COVID-19-Readings-General-Notes-2020.04.md
+# Last-edited: Sun 2020.08.16.1906 -- Danny Quah (me@DannyQuah.com)
+Type: Notes
+Tags: COVID19
+# Created: Tue 2020.07.28.1654 -- Danny Quah (me@DannyQuah.com)
+output: pdf_document
 Title: Quah-Danny-COVID-19-Readings-General-Notes-2020.04
-Last-edited: Tue 2020.07.28.1654 -- Danny Quah (me@DannyQuah.com)
-Type: Event | Person | Log | Notes | Misc
-Tags: China, US, LKYSPP, NUS, Hardware, Software, Talk, Write, Finance
-Created: Tue 2020.07.28.1654 -- Danny Quah (me@DannyQuah.com)
 output: pdf_document
 fontsize: 11pt
 fontfamily: concrete | gentium | libertine
@@ -354,8 +356,21 @@ AP. 2020. [China didn’t warn public of likely pandemic for 6 key days](https:/
 
 "Donald Trump launched an extraordinary attack on the agency, putting $500 million in funding on hold while an investigation is conducted into its handling of the pandemic. 
 
-Mr Trump singled out what he called the WHO's 'dangerous and costly decision' to argue against international travel bans to combat the pandemic.   
+Mr Trump singled out what he called the WHO's 'dangerous and costly decision' to argue against international travel bans to combat the pandemic.
 
 The US State Department added the agency was too late in sounding the alarm over Covid-19 and is overly deferential to China.
 
 It questioned why it did not pursue a lead from Taiwan flagged up on December 31 about reports of atypical pneumonia in Wuhan."
+
+(2020.08.16.1558) Makulec, Amanda. 2020. "[Ten Considerations Before You Create Another Chart About COVID-19](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8)", Medium.com (11 Mar) https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8
+
+Field, Kenneth. 2020. "Mapping Coronavirus, Responsibly", ArcGIS Blog (25 Feb) https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/
+
+Cetinkaya-Rundel, Mine. 2020. "covid19-r", Github (July). https://github.com/mine-cetinkaya-rundel/covid19-r
+
+Gassen, Joachim. 2020. "Merge Covid-19 Data with Governmental Interventions Data", Github (27 Mar). https://joachim-gassen.github.io/2020/03/merge-covid-19-data-with-governmental-interventions-data/ 
+
+
+<!---
+   Invisible section
+-->
