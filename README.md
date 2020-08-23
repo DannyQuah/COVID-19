@@ -1,51 +1,36 @@
+---
+fileName: README.md
+# Last-edited: Sun 2020.08.23.1927 -- Danny Quah (me@DannyQuah.com)
+Type: Notes
+Tags: COVID19
+# Created: Sat 2020.05.23.1122h -- Danny Quah (me@DannyQuah.com)
+
+output: pdf_document
+title: README for COVID-19 Repo
+---
+
 # COVID-19
 
-by Danny Quah, Apr 2020 // Last edited: 2020.05.23.1122h -- Danny Quah
+by Danny Quah, Apr 2020
 
 COVID-19 Research materials
 
 - Pictures and photos
 - Collated timeline from different sources, some of which still need triangulation and verification
 - My own notes but also notes from other observers not generally available
+- Code, and links to regularly-updated data on a range of cloud platforms
 
 The following would be in the added files and folders except that they're just URLs, so I'm putting them here rather than adding another  file.
 
-(More links and notes in this repo in Quah-Danny-\*.md Markdown files, including Timeline-2020.03, Basic-Facts-2020.04, Future-World-Order-2020.04, Policy-Responses-2020.04, Readings-General-Notes-2020.04)
+(More links and notes in this repo in Quah-Danny-\*.md Markdown files, including Timeline-2020.03, Basic-Facts-2020.04, Future-World-Order-2020.04, Policy-Responses-2020.04, Readings-General-Notes-2020.04, Tradeoffs-Analytical-Resources-2020.08. It is the last of these where most of my attention is going right now.)
 
 
 
 **Facts and Figures**
 
-- [COVID-19 Dataset // White House Office of Science and Technology Policy Call to Action to Tech Community](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/) (16 Mar 2020)
-- Dashboard // Confirmed Cases, Deaths by Country/Region/Sovereignty - [Johns Hopkins](https://coronavirus.jhu.edu/map.html)
-- Worldometers Info https://www.worldometers.info/coronavirus/#countries
-- NY Times: [Coronavirus Map: Tracking the Global Outbreak](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
-- Oxford COVID-19 Government Response Tracker [Site](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker) | [GitHub](https://github.com/OxCGRT/covid-policy-tracker)
-  - Stringency index
-- Cumulative Cases - [Johns Hopkins](https://coronavirus.jhu.edu/data/cumulative-cases)
-  - Since 50th confirmed case
-  - In calendar time
-- The Atlantic // [The COVID Tracking Project](https://covidtracking.com/) &mdash; US statistics; [R package on GitHub](https://github.com/aedobbyn/covid19us)
-- Lakshmanan, Lak. 2020. "[Analyzing COVID-19 with BigQuery](https://medium.com/google-cloud/analyzing-covid-19-with-bigquery-13701a3a785)", Google Cloud Computing (31 Mar) https://medium.com/google-cloud/analyzing-covid-19-with-bigquery-13701a3a785
+(The great bulk of what used to be here has been moved to Quah-Danny-COVID-19-Tradeoffs-Analytical-Resources-2020.08.md primarily.)
 
-
-
-**Collections and archives**
-
-- [The Guardian coronavirus coverage](https://www.theguardian.com/world/coronavirus-outbreak)
-- [Lancet coronavirus archive](https://www.thelancet.com/coronavirus/archive)
-
-
-
-**Models**
-
-- (References in) The Economist. 2020. "[The hard choices covid policymakers face](https://www.economist.com/briefing/2020/04/04/the-hard-choices-covid-policymakers-face)" (04 Apr) https://www.economist.com/briefing/2020/04/04/the-hard-choices-covid-policymakers-face
-
-
-
-
-
-**Readings / Writings / Projects**
+Remaining below are earlier writings, that might still be moved into some of the other more organised and streamline documents, but left here for now.
 
 - Sergio Correia, Stephan Luck, and Emil Verner, ""[Fight the Pandemic, Save the Economy: Lessons from the 1918 Flu](https://libertystreeteconomics.newyorkfed.org/2020/03/fight-the-pandemic-save-the-economy-lessons-from-the-1918-flu.html)," Federal Reserve Bank of New York Liberty Street Economics, March 27, 2020, https://libertystreeteconomics.newyorkfed.org/2020/03/fight-the-pandemic-save-the-economy-lessons-from-the-1918-flu.html.
 - Quah, D. 2020. "[Which Wolf Did You Feed During the Great 2020 Novel Coronavirus Crisis?](https://medium.com/@1DannyQuah/which-wolf-did-you-feed-during-the-great-2020-novel-coronavirus-crisis-f7a69ac2a715)", *Medium* (15 Mar)
@@ -64,3 +49,7 @@ The following would be in the added files and folders except that they're just U
 - S. Korea // June Park project - Governing a pandemic in the age of artificial intelligence: Beyond massive tracking and data privacy in South Korea to counter COVID-19 http://blogs.bu.edu/junepark/covid-19/
 - Tay, Simon, and Chen, Kevin. 2020. "[Singapore and COVID-19: Strengths, Shifts, and Limits of National Response](https://www.cfr.org/blog/singapore-and-covid-19-strengths-shifts-and-limits-national-response)", CFR (21 Apr)
 
+
+<!---
+   Invisible section
+-->
