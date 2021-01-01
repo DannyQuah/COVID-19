@@ -1,6 +1,6 @@
 ---
 fileName: README.md
-# Last-edited: Sun 2020.08.23.1927 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Mon 2020.08.24.1605 -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: COVID19
 # Created: Sat 2020.05.23.1122h -- Danny Quah (me@DannyQuah.com)
@@ -13,12 +13,12 @@ title: README for COVID-19 Repo
 
 by Danny Quah, Apr 2020
 
-COVID-19 Research materials
+## COVID-19 Research materials
 
 - Pictures and photos
 - Collated timeline from different sources, some of which still need triangulation and verification
 - My own notes but also notes from other observers not generally available
-- Code, and links to regularly-updated data on a range of cloud platforms
+- Code. And links to regularly-updated data on a range of cloud platforms
 
 The following would be in the added files and folders except that they're just URLs, so I'm putting them here rather than adding another  file.
 

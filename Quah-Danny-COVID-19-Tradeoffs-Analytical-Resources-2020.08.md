@@ -1,6 +1,6 @@
 ---
 fileName: Quah-Danny-COVID19-Tradeoffs-Analytical-Resources-2020.08.md
-# Last-edited: Sun 2020.08.23.1928 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Wed 2020.12.23.1150 -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: COVID19, DataScience
 # Created: Tue 2020.07.28.1656 -- Danny Quah (me@DannyQuah.com)
@@ -22,45 +22,24 @@ August 2020
 
 Larger, more comprehensive collections are already available for COVID-19 data analysis. Among those I have found useful include [Stats and R][Stats-R-COVID19-Top-100] and [Science versus Corona][ScienceVsCorona].
 
-What appears here is not an attempt at completeness or extensiveness. Instead, this is a directed selection of sources, data, and other writings &mdash; focused on data analytics and economic modeling &mdash; that I am using for my research on pressures that national policy-makers face and the problems those policy-makers are trying to solve in the COVID-19 pandemic. While some of these pressures are shared, others are specific to individual nations, and policy-makers act based on nation-specific information sets, considerations, and constraints. Why have policy-makers selected different points in the tradeoff locus between their population's health and their economy's performance? What is the knowledge-basis to national policy-maker actions? How have media pressures, populist sentiment, and geopolitics helped shape policy actions and influenced national outcomes across different parts of the world?
+What appears here is not an attempt at completeness or extensiveness. Instead, this is a directed selection of sources, data, and other writings &mdash; focused on data analytics and economic modeling &mdash; that I am using for my research on pressures that national policy-makers face and the problems those policy-makers are trying to solve in the COVID-19 pandemic. While some of these pressures are shared, others are specific to individual nations. Policy-makers act based on nation-specific information sets, considerations, and constraints. Why have policy-makers selected different points in the tradeoff locus between their population's health and their economy's performance? What is the knowledge-basis to national policy-maker actions? How have media pressures, populist sentiment, and geopolitics helped shape policy actions and influenced national outcomes across different parts of the world?
 
-## COVID19 Headline TPs
-
-1. The US is the nation with the greatest total number of deaths (176k), the greatest total number of cases (5,667k). Normalised by population the US has the third greatest number of total cases (behind Chile and Peru) and the second greatest number of new cases (behind India) [2020.08.23.1205][Information-Beautiful-COVID19-Infographic-Datapack].
-2. Greatest numbers of new cases: India (70k), US (49k), Brazil (30k), over past 7 days [2020.08.23.1205][Information-Beautiful-COVID19-Infographic-Datapack].
-3. Highest number of cases normalised by population: Chile (22k/mn), Peru (18k/mn), US (17k/mn), Brazil (17k/mn), [2020.08.23.1205][Information-Beautiful-COVID19-Infographic-Datapack].
-4. Highest number of deaths normalised by population: Belgium (874/mn), Peru (840/mn), UK (627/mn), Spain (622/mn) per mn [2020.08.23.1205][Information-Beautiful-COVID19-Infographic-Datapack].
-5. Four fifths of those infected show only mild symptoms, akin to flu. However, 14% require hospitalisation and almost 5% need intensive care. (From China CDCP study of 45,000 cases in Mainland China). [2020.08.23.1205][Information-Beautiful-COVID19-Infographic-Datapack]
-6. The majority of those who have died from COVID-19 are 60 or older. In the UK 92%; in Italy, 90% (From 3372 UK and 21551 Italy deaths). [2020.08.23.1205][Information-Beautiful-COVID19-Infographic-Datapack]
+## Talking Points
+-  Moved those to (my personal) .../COVID-19-2020.06.md 
 
 ## Policy Response Measures
 
-Three broad categories of policy response measures.
-
-1. Containment: lockdown restrictions; isolation and quarantine; school closures and movement restrictions; testing and contact tracing
-2. Non-pharmaceutical intervention (NPI) and economic support: debt relief; income and wages support; jobs subsidies; investment risk-sharing; foreign aid
-3. Health policies: short-term healthcare expenditures, testing; longer-term vaccine and other treatment investment
-4. Data [Hale et al 2020][OxCGRT-2020]; previous analyses Gassen, J. [2020.03][Gassen-COVID19-Merge-Government-Interventions-2020.03], [2020.04][Gassen-COVID19-Explore-OxCGRT-2020.04].
-
-
-
+-  Moved those to (my personal) .../COVID-19-2020.06.md 
 
 ## Data-Intensive
 
-Gassen, Joachim. 2020. "[Tidying the new Johns Hopkins COVID-19 time-series datasets][Gassen-COVID19-Tidying-new-Johns-Hopkins-timeseries-datasets-2020.03], Mar // Describes joining Johns Hopkins COVID-19 data with `countrycode`, that then allows relating COVID-19 outcomes with national characteristics and  country policies, such as given in IMF, World Bank, and other sources. 
-
-Gassen, Joachim. 2020. "[{tidycovid19}: New Data and Documentation][Gassen-tidycovid19-new-2020] (May).
-
-Hale, Thomas, Sam Webster, Anna Petherick, Toby Phillips, and Beatriz Kira.  2020. [Oxford COVID-19 Government Response Tracker, Blavatnik School of Government][OxCGRT-2020]. Blavatnik School of Government, Oxford University. Data use policy: Creative Commons Attribution CC BY standard. [Github][OxCGRT-2020-Github]. These data are used in the R projects [COVID-19 Data Hub][IVADO-COVID19-Github], [Gassen, 2020b][Gassen-COVID19-Explore-OxCGRT-2020], [Information COVID19 Infographic Datapack][Information-Beautiful-COVID19-Infographic-Datapack].
-
-Institute for Data Valorization, Canada. [COVID-19 Data Hub][IVADO-COVID19-Github] Github. Incorporates [OxCGRT][OxCGRT-2020-Github], World Bank Open Data access, and Google and Apple Mobility resources
-
-Lakshmanan, Lak. 2020. "[Analyzing COVID-19 with BigQuery][Lakshmanan-L-2020.03-COVID19-BigQuery-Medium]", Google Cloud Medium.com (31 Mar).
-
-Science versus Corona. 2020. [COVID-19 Overview Shiny][ScienceVsCorona-Overview-Shiny]. Includes Oxford stringency analysis; cases and deaths normalised by number of inhabitants.
-
-
-
+1.  Gassen, Joachim. 2020. "[Tidying the new Johns Hopkins COVID-19 time-series datasets][Gassen-COVID19-Tidying-new-Johns-Hopkins-timeseries-datasets-2020.03], Mar // Describes joining Johns Hopkins COVID-19 data with `countrycode`, that then allows relating COVID-19 outcomes with national characteristics and  country policies, such as given in IMF, World Bank, and other sources.
+2.  Gassen, Joachim. 2020. "[{tidycovid19}: New Data and Documentation][Gassen-tidycovid19-new-2020] (May).
+3.  Gassen, Joachim. 2020. "[Download, Tidy and Visualize Covid-19 Related Data](Gassen-tidycovid19-overview)" (accessed Dec).
+4.  Hale, Thomas, Sam Webster, Anna Petherick, Toby Phillips, and Beatriz Kira.  2020. [Oxford COVID-19 Government Response Tracker, Blavatnik School of Government][OxCGRT-2020]. Blavatnik School of Government, Oxford University. Data use policy: Creative Commons Attribution CC BY standard. [Github][OxCGRT-2020-Github]. These data are used in the R projects [COVID-19 Data Hub][IVADO-COVID19-Github], [Gassen, 2020b][Gassen-COVID19-Explore-OxCGRT-2020], [Information COVID19 Infographic Datapack][Information-Beautiful-COVID19-Infographic-Datapack].
+5.  Institute for Data Valorization, Canada. [COVID-19 Data Hub][IVADO-COVID19-Github] Github. Incorporates [OxCGRT][OxCGRT-2020-Github], World Bank Open Data access, and Google and Apple Mobility resources
+6.  Lakshmanan, Lak. 2020. "[Analyzing COVID-19 with BigQuery][Lakshmanan-L-2020.03-COVID19-BigQuery-Medium]", Google Cloud Medium.com (31 Mar).
+7.  Science versus Corona. 2020. [COVID-19 Overview Shiny][ScienceVsCorona-Overview-Shiny]. Includes Oxford stringency analysis; cases and deaths normalised by number of inhabitants.
 
 ## Resources
 
@@ -85,6 +64,8 @@ Gassen, Joachim. 2020. "[Merge COVID-19 Data with Government Interventions Data]
 Gassen, Joachim. 2020. "[Exploring and Benchmarking Oxford Government Response Data][Gassen-COVID19-Explore-OxCGRT-2020.04]", Github (Apr).
 
 Gassen, Joachim. 2020. "[{tidycovid19}: New Data and Documentation][Gassen-tidycovid19-new-2020.05] (May).
+
+Gassen, Joachim. 2020. "[Download, Tidy and Visualize Covid-19 Related Data](Gassen-tidycovid19-overview)" (accessed - Dec)
 
 Hale, Thomas, Sam Webster, Anna Petherick, Toby Phillips, and Beatriz Kira.  2020. [Oxford COVID-19 Government Response Tracker, Blavatnik School of Government][OxCGRT-2020]. Blavatnik School of Government, Oxford University. Data use policy: Creative Commons Attribution CC BY standard. [Github][OxCGRT-2020-Github]. These data are used in the R projects [COVID-19 Data Hub][IVADO-COVID19-Github], [Gassen, 2020b][Gassen-COVID19-Explore-OxCGRT-2020.04], [Information COVID19 Infographic Datapack][Information-Beautiful-COVID19-Infographic-Datapack].
 
@@ -175,6 +156,7 @@ Yu, Guangchuang. 2020. "[nCov2019: An R package with real-time data, historical 
    [Gassen-COVID19-Merge-Government-Interventions-2020.03]: https://joachim-gassen.github.io/2020/03/merge-covid-19-data-with-governmental-interventions-data/
    [Gassen-COVID19-Explore-OxCGRT-2020.04]: https://joachim-gassen.github.io/2020/04/exploring-and-benchmarking-oxford-government-response-data/
    [Gassen-tidycovid19-new-2020.05]: https://joachim-gassen.github.io/2020/05/tidycovid19-new-data-and-doc/
+   [Gassen-tidycovid19-overview]: https://joachim-gassen.github.io/tidycovid19/
    [Information-Beautiful-COVID19-Infographic-Datapack]: https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/
    [IVADO-COVID19-Github]: https://covid19datahub.io/
    [JHU-2020-COVID19-Deaths-data-github]: https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
