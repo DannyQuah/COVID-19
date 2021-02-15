@@ -1,6 +1,6 @@
 ---
 fileName: Quah-Danny-COVID-19-Readings-General-Notes-2020.04.md
-# Last-edited: Sun 2020.08.16.1906 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Fri 2021.02.12.1408 -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: COVID19
 # Created: Tue 2020.07.28.1654 -- Danny Quah (me@DannyQuah.com)
@@ -14,14 +14,18 @@ geometry: margin=1in
 papersize: A4
 pagestyle: plain
 ---
-
-# Quah-Danny-COVID-19-Readings-General-Notes-2020.04
-
-General readings, not particularly organised. See different topic arrangements in other `Quah-Danny-COVID-19-*` items
-
 April 2020
 
+General readings, not particularly organised. See different topic arrangements in other `Quah-Danny-COVID-19-*` items.
+-  Data-intensive, analytical Quah-Danny-COVID-19-Tradeoffs-Analytical-Resources-2020.08
 
+### Inequality
+-  Tan, Yvette. 2020. "Covid-19 Singapore: A 'pandemic of inequality' exposed", BBC News (17 Sep) https://www.bbc.com/news/world-asia-54082861  
+-  
+
+
+
+### General
 
 (2020.04.18 1700h) Derek Thompson. 2020. [The Economy is Ruined](https://www.theatlantic.com/ideas/archive/2020/04/economy-ruined-it-didnt-have-be-way/609334/), The Atlantic (02 Apr) https://www.theatlantic.com/ideas/archive/2020/04/economy-ruined-it-didnt-have-be-way/609334/
 
@@ -372,5 +376,5 @@ Gassen, Joachim. 2020. "Merge Covid-19 Data with Governmental Interventions Data
 
 
 <!---
-   Invisible section
+   Invisible section // Quah-Danny-COVID-19-Readings-General-Notes-2020.04.md
 -->

@@ -1,6 +1,6 @@
 ---
 fileName: Quah-Danny-COVID19-Tradeoffs-Analytical-Resources-2020.08.md
-# Last-edited: Wed 2020.12.23.1150 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Thu 2021.02.11.0758 -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: COVID19, DataScience
 # Created: Tue 2020.07.28.1656 -- Danny Quah (me@DannyQuah.com)
@@ -33,13 +33,14 @@ What appears here is not an attempt at completeness or extensiveness. Instead, t
 
 ## Data-Intensive
 
-1.  Gassen, Joachim. 2020. "[Tidying the new Johns Hopkins COVID-19 time-series datasets][Gassen-COVID19-Tidying-new-Johns-Hopkins-timeseries-datasets-2020.03], Mar // Describes joining Johns Hopkins COVID-19 data with `countrycode`, that then allows relating COVID-19 outcomes with national characteristics and  country policies, such as given in IMF, World Bank, and other sources.
-2.  Gassen, Joachim. 2020. "[{tidycovid19}: New Data and Documentation][Gassen-tidycovid19-new-2020] (May).
-3.  Gassen, Joachim. 2020. "[Download, Tidy and Visualize Covid-19 Related Data](Gassen-tidycovid19-overview)" (accessed Dec).
-4.  Hale, Thomas, Sam Webster, Anna Petherick, Toby Phillips, and Beatriz Kira.  2020. [Oxford COVID-19 Government Response Tracker, Blavatnik School of Government][OxCGRT-2020]. Blavatnik School of Government, Oxford University. Data use policy: Creative Commons Attribution CC BY standard. [Github][OxCGRT-2020-Github]. These data are used in the R projects [COVID-19 Data Hub][IVADO-COVID19-Github], [Gassen, 2020b][Gassen-COVID19-Explore-OxCGRT-2020], [Information COVID19 Infographic Datapack][Information-Beautiful-COVID19-Infographic-Datapack].
-5.  Institute for Data Valorization, Canada. [COVID-19 Data Hub][IVADO-COVID19-Github] Github. Incorporates [OxCGRT][OxCGRT-2020-Github], World Bank Open Data access, and Google and Apple Mobility resources
-6.  Lakshmanan, Lak. 2020. "[Analyzing COVID-19 with BigQuery][Lakshmanan-L-2020.03-COVID19-BigQuery-Medium]", Google Cloud Medium.com (31 Mar).
-7.  Science versus Corona. 2020. [COVID-19 Overview Shiny][ScienceVsCorona-Overview-Shiny]. Includes Oxford stringency analysis; cases and deaths normalised by number of inhabitants.
+2.  Gassen, Joachim. 2020. "[Tidying the new Johns Hopkins COVID-19 time-series datasets][Gassen-COVID19-Tidying-new-Johns-Hopkins-timeseries-datasets-2020.03], Mar // Describes joining Johns Hopkins COVID-19 data with `countrycode`, that then allows relating COVID-19 outcomes with national characteristics and  country policies, such as given in IMF, World Bank, and other sources.
+3.  Gassen, Joachim. 2020. "[{tidycovid19}: New Data and Documentation][Gassen-tidycovid19-new-2020] (May).
+4.  Gassen, Joachim. 2020. "[Download, Tidy and Visualize Covid-19 Related Data](Gassen-tidycovid19-overview)" (accessed Dec).
+5.  Guidotti, E., Ardia, D., (2020), "COVID-19 Data Hub", Journal of Open Source Software 5(51):2376, doi: 10.21105/joss.02376 https://doi.org/10.21105/joss.02376 https://github.com/covid19datahub
+6.  Hale, Thomas, Sam Webster, Anna Petherick, Toby Phillips, and Beatriz Kira.  2020. [Oxford COVID-19 Government Response Tracker, Blavatnik School of Government][OxCGRT-2020]. Blavatnik School of Government, Oxford University. Data use policy: Creative Commons Attribution CC BY standard. [Github][OxCGRT-2020-Github]. These data are used in the R projects [COVID-19 Data Hub][IVADO-COVID19-Github], [Gassen, 2020b][Gassen-COVID19-Explore-OxCGRT-2020], [Information COVID19 Infographic Datapack][Information-Beautiful-COVID19-Infographic-Datapack].
+7.  Institute for Data Valorization, Canada. [COVID-19 Data Hub][IVADO-COVID19-Github] Github. Incorporates [OxCGRT][OxCGRT-2020-Github], World Bank Open Data access, and Google and Apple Mobility resources
+8.  Lakshmanan, Lak. 2020. "[Analyzing COVID-19 with BigQuery][Lakshmanan-L-2020.03-COVID19-BigQuery-Medium]", Google Cloud Medium.com (31 Mar).
+9.  Science versus Corona. 2020. [COVID-19 Overview Shiny][ScienceVsCorona-Overview-Shiny]. Includes Oxford stringency analysis; cases and deaths normalised by number of inhabitants.
 
 ## Resources
 
